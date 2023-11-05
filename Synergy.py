@@ -1,0 +1,10 @@
+print('Введите названия всех этапов (7 этапов) развития человке:')
+stage_1 = input()
+stage_2 = input()
+stage_3 = input()
+stage_4 = input()
+stage_5 = input()
+stage_6 = input()
+stage_7 = input()
+
+print(stage_1, stage_2, stage_3, stage_4, stage_5, stage_6, stage_7, sep=" => ")
